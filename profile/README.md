@@ -8,6 +8,12 @@
 
 </div>
 
+## Architecture
+
+<div align="center">
+<img width="256" src="../assets/diagrams/dependencies.svg" alt="Dependencies diagram" />
+</div>
+
 ## Core
 
 | Repository                                 | Status                                                                                                                                        | Description                                                        |
