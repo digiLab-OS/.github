@@ -20,17 +20,13 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [API](https://github.com/digiLab-OS/API) | [![CI](https://github.com/digiLab-OS/API/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/API/actions/workflows/ci.yaml) | Adapter composition and digiLab-OS API |
 
-## Clients
-
-Client libraries for interacting with the API.
+## SDKs
 
 | Adapter                                              | Status                                                                                                                                                  | Description                                                    |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [PythonSDK](https://github.com/digiLab-OS/PythonSDK) | [![CI](https://github.com/digiLab-OS/PythonSDK/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/PythonSDK/actions/workflows/ci.yaml) | Python client library for interacting with the digiLab-OS API. |
 
 ## Adapters
-
-Adapters provide interchangeable implementations for ports.
 
 ### Authentication
 
