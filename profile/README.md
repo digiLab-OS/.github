@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="128" height="128" src="../assets/icons/engine.svg" alt="digiLab-OS logo" />
+<img width="128" height="128" src="../assets/icons/digiLab-OS.svg" alt="digiLab-OS logo" />
 
 # digiLab-OS
 
