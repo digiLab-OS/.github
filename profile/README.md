@@ -24,9 +24,9 @@
 
 Client libraries for interacting with the API.
 
-| Adapter                                                      | Status                                                                                                                                                                        | Description                                                    |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Python](https://github.com/digiLab-OS/ClientAdapter-Python) | [![CI](https://github.com/digiLab-OS/ClientAdapter-Python/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/ClientAdapter-Python/actions/workflows/ci.yaml) | Python client library for interacting with the digiLab-OS API. |
+| Adapter                                              | Status                                                                                                                                                  | Description                                                    |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [PythonSDK](https://github.com/digiLab-OS/PythonSDK) | [![CI](https://github.com/digiLab-OS/PythonSDK/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/PythonSDK/actions/workflows/ci.yaml) | Python client library for interacting with the digiLab-OS API. |
 
 ## Adapters
 
