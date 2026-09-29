@@ -54,7 +54,9 @@
 
 ### Execution
 
-Upcoming
+| Adapter                                                   | Adapter Status                                                                                                                                                                | Worker Status                                                                                                                                                               | Description                                            |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [Ray](https://github.com/digiLab-OS/ExecutionAdapter-Ray) | [![CI](https://github.com/digiLab-OS/ExecutionAdapter-Ray/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/ExecutionAdapter-Ray/actions/workflows/ci.yaml) | [![CI](https://github.com/digiLab-OS/ExecutionWorker-Ray/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/ExecutionWorker-Ray/actions/workflows/ci.yaml) | Execution adapter for distributed computing using Ray. |
 
 ### Orchestration
 
