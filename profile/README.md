@@ -49,9 +49,9 @@
 
 ### Ephemeral
 
-| Adapter                                                       | Status                                                                                                                                                                                                                  | Description                           |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Redis](https://github.com/digiLab-OS/EphemeralAdapter-Redis) | [![CI](https://github.com/digiLab-OS/PersistenceAdapter-EphemeralAdapter-Redis/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/PersistenceAdapter-EphemeralAdapter-Redis/actions/workflows/ci.yaml) | Redis-backed short-term data storage. |
+| Adapter                                                       | Status                                                                                                                                                                            | Description                           |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Redis](https://github.com/digiLab-OS/EphemeralAdapter-Redis) | [![CI](https://github.com/digiLab-OS/EphemeralAdapter-Redis/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/EphemeralAdapter-Redis/actions/workflows/ci.yaml) | Redis-backed short-term data storage. |
 
 ### Persistence
 
