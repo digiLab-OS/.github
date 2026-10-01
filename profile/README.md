@@ -38,6 +38,7 @@
 
 | Adapter                                                                     | Status                                                                                                                                                                                              | Description                                                                             |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [OIDC](https://github.com/digiLab-OS/AuthenticationAdapter-OIDC)            | [![CI](https://github.com/digiLab-OS/AuthenticationAdapter-OIDC/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/AuthenticationAdapter-OIDC/actions/workflows/ci.yaml)           | Authentication adapter for verifying user credentials using OpenID Connect.             |
 | [Local JSON](https://github.com/digiLab-OS/AuthenticationAdapter-LocalJson) | [![CI](https://github.com/digiLab-OS/AuthenticationAdapter-LocalJson/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/AuthenticationAdapter-LocalJson/actions/workflows/ci.yaml) | Authentication adapter for verifying user credentials using a local JSON configuration. |
 
 ### Authorization
