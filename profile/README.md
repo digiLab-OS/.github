@@ -67,4 +67,6 @@
 
 ### Orchestration
 
-Upcoming
+| Adapter                                                                          | Status                                                                                                                                                                                                  | Description                       |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| [Local Asyncio](https://github.com/digiLab-OS/OrchestrationAdapter-LocalAsyncio) | [![CI](https://github.com/digiLab-OS/OrchestrationAdapter-LocalAsyncio/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/OrchestrationAdapter-LocalAsyncio/actions/workflows/ci.yaml) | Local asynchronous orchestration. |
