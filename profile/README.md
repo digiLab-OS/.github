@@ -47,17 +47,17 @@
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Local Cedar](https://github.com/digiLab-OS/AuthorizationAdapter-LocalCedar) | [![CI](https://github.com/digiLab-OS/AuthorizationAdapter-LocalCedar/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/AuthorizationAdapter-LocalCedar/actions/workflows/ci.yaml) | Authorization adapter for enforcing access control policies using Cedar. |
 
-### Ephemeral
+### Cache
 
-| Adapter                                                       | Status                                                                                                                                                                            | Description                           |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [Redis](https://github.com/digiLab-OS/EphemeralAdapter-Redis) | [![CI](https://github.com/digiLab-OS/EphemeralAdapter-Redis/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/EphemeralAdapter-Redis/actions/workflows/ci.yaml) | Redis-backed short-term data storage. |
+| Adapter                                                   | Status                                                                                                                                                                    | Description                           |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Redis](https://github.com/digiLab-OS/CacheAdapter-Redis) | [![CI](https://github.com/digiLab-OS/CacheAdapter-Redis/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/CacheAdapter-Redis/actions/workflows/ci.yaml) | Redis-backed short-term data storage. |
 
-### Persistence
+### Storage
 
-| Adapter                                                                              | Status                                                                                                                                                                                                    | Description                              |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [Local Filesystem](https://github.com/digiLab-OS/PersistenceAdapter-LocalFilesystem) | [![CI](https://github.com/digiLab-OS/PersistenceAdapter-LocalFilesystem/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/PersistenceAdapter-LocalFilesystem/actions/workflows/ci.yaml) | Local filesystem long-term data storage. |
+| Adapter                                                                          | Status                                                                                                                                                                                            | Description                              |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [Local Filesystem](https://github.com/digiLab-OS/StorageAdapter-LocalFilesystem) | [![CI](https://github.com/digiLab-OS/StorageAdapter-LocalFilesystem/actions/workflows/ci.yaml/badge.svg)](https://github.com/digiLab-OS/StorageAdapter-LocalFilesystem/actions/workflows/ci.yaml) | Local filesystem long-term data storage. |
 
 ### Execution
 
